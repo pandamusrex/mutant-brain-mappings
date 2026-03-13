@@ -1,6 +1,6 @@
 # mutant-brain-mappings
 
-# Using Windows [MIDI PREVIEW](https://microsoft.github.io/MIDI/) to send SysEx files to Hexinverter Mutant Brain
+## Using Windows [MIDI PREVIEW](https://microsoft.github.io/MIDI/) to send SysEx files to Hexinverter Mutant Brain
 
 ```
 PS C:\Users\allyn> midi endpoint send-sysex "C:\Users\allyn\Repos\mutant-brain-mappings\mutantbrain-20260312.syx"
